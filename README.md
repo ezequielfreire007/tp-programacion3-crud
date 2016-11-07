@@ -1,8 +1,10 @@
 # tp-programacion3-crud
 CRUD en php
 
+##Objetivos
 El Trabajo Practico consiste en desarrollar un panel de administracion utilizando SESSION, COOKIES, PDO, AJAX, JSON, JQUERY.
 
+##Consignas
 1- LOGIN de usuario
 
 2- LOGOUT de los usuario
